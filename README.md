@@ -23,17 +23,7 @@ A machine learning project designed to predict flight ticket prices based on var
 
 ---
 
-## 📁 Project Structure
 
-```text
-Flight-Price-Prediction/
-│
-├── data/                 # Dataset files (train, test, or raw data)
-├── notebooks/            # Jupyter notebooks for EDA and model experimentation
-├── models/               # Saved trained models (.pkl or .joblib)
-├── src/                  # Source code for preprocessing and prediction pipeline
-├── requirements.txt      # Project dependencies
-└── README.md             # Project documentation
 
 
 ⚙️ Installation & Setup
@@ -59,3 +49,15 @@ Open the exploratory notebooks or run the pipeline scripts to see how data is cl
 Bash
 jupyter notebook notebooks/
 Execute the prediction script or application to predict flight prices for new inputs.
+
+## 📁 Project Structure
+
+``` text
+Flight-Price-Prediction/
+│
+├── data/                 # Dataset files (train, test, or raw data)
+├── notebooks/            # Jupyter notebooks for EDA and model experimentation
+├── models/               # Saved trained models (.pkl or .joblib)
+├── src/                  # Source code for preprocessing and prediction pipeline
+├── requirements.txt      # Project dependencies
+└── README.md             # Project documentation
